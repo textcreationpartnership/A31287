@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catalogue of remarkable mercies conferred upon the seven associated counties viz. Cambridge, Essex, Hartford, Huntingdon, Norfolk, Suffolk, and Lincoln. Printed by the command of the Right Honourable Edvvard, Earl of Manchester, the Major Generall thereof, and the committee now residing in Cambridge: and appointed to be published in the severall parish-churches of the aforenamed counties, upon the fourteenth of April, that almighty God may by solemne thanksgiving have the glorie due unto his name. Hereunto is annexed an order for the more solemne keeping of the publick fast.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31287</idno>
+            <idno type="STC">Wing C1365A</idno>
+            <idno type="STC">ESTC R224048</idno>
+            <idno type="EEBO-CITATION">99834657</idno>
+            <idno type="PROQUEST">99834657</idno>
+            <idno type="VID">39161</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31287)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39161)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1809:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catalogue of remarkable mercies conferred upon the seven associated counties viz. Cambridge, Essex, Hartford, Huntingdon, Norfolk, Suffolk, and Lincoln. Printed by the command of the Right Honourable Edvvard, Earl of Manchester, the Major Generall thereof, and the committee now residing in Cambridge: and appointed to be published in the severall parish-churches of the aforenamed counties, upon the fourteenth of April, that almighty God may by solemne thanksgiving have the glorie due unto his name. Hereunto is annexed an order for the more solemne keeping of the publick fast.</title>
+               </titleStmt>
+               <extent>[12] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[Cambridge :</pubPlace>
+                  <date>Anno dom. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing CD-ROM.</note>
+                  <note>Signatures: A⁴ chi²</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>God --  Mercy --  Early works to 1800.</term>
+               <term>Great Britain --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:39161:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 78 -->
+            <p>A CATALOGUE of remarkable mercies conferred upon the ſeven Aſſociated Counties, <hi>viz. Cambridge, Eſſex, Hartford, Huntingdon, Norfolk, Suffolk, and Lincoln.</hi>
+            </p>
+            <p>Printed by the command of the <hi>Right Honourable</hi> EDWARD, <hi>Earl of</hi> Mancheſter, <hi>the Major Generall thereof, and the Committee now reſiding in</hi> CAMBRIDGE: And appointed to be publiſhed in the ſeverall Pariſh-Churches of the aforenamed Counties, upon the fourteenth of <hi>April,</hi> that Almighty God may by ſolemne Thankſgiving, have the glorie due unto his Name.</p>
+            <p>Hereunto is annexed an Order for the more ſo<g ref="char:EOLhyphen"/>lemne keeping of the Publick Faſt.</p>
+            <p>ANNO DOM. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="list_of_events">
+            <pb facs="tcp:39161:2"/>
+            <!-- PDF PAGE 79 -->
+            <pb facs="tcp:39161:2"/>
+            <!-- PDF PAGE 79 -->
+            <head>¶ A Catalogue of remarkable mercies conferred upon the ſeven Aſſociated Counties.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">A</seg> Midſt the ſeverall miſeries and distractions under which this Kingdome hath groaned ſince this unnatu<g ref="char:EOLhyphen"/>rall warre began by the enemies of our Religion and Liberties, God hath been pleaſed in his meer grace to raiſe unto us many means of preſervation: otherwiſe undoubtedly we had been, long before this time, under the power of thoſe enemies. Among which means this is not the leaſt, that God put it into the heart of the Parliament, to aſſociate theſe Counties for the mutuall defence one of another, and the good of the Kingdome in generall. Neither are the ſucceſſes which God hath been pleaſed to give the forces raiſed by theſe Aſſociated Coun<g ref="char:EOLhyphen"/>ties to be forgotten, but to be had in thankfull remembrance of all that love and fear God. Therefore our deſire is, that God (who is onely to be acknowledged in all theſe deliverances and happy victo<g ref="char:EOLhyphen"/>ries) may have the glory due unto his name: And to that end, a day of publick Thanksgiving be ſolemnly kept &amp; obſerved upon the Lords day, being the ſeventh of</hi> April <hi>instant, in all the Congregations within this Aſſociation; and that the people be ſtirred up by their Miniſters to acknowledge the goodneſſe of God, for inclining the Parliament to cauſe theſe Counties thus to be knit together for the ends aforeſaid, and for his bleſsing given to their forces, which have been employed in ſeverall parts of this Kingdome, and in particular to call to mind theſe things following.</hi>
+            </p>
+            <list>
+               <item>1. THe quenching that fire kindled at <hi>Laystaff,</hi> which would undoubtedly have hazarded all the Eaſt parts of this Kingdome, if God had not by a ſeaſonable provi<g ref="char:EOLhyphen"/>dence timely prevented the ſame, breaking it in that very conjuncture of time in which there was a confederacy of the disaffected of thoſe parts to gather to a head.</item>
+               <item>
+                  <pb facs="tcp:39161:3"/>
+                  <!-- PDF PAGE 80 -->
+2 The reducing <hi>Croyland,</hi> which was a place ſtrong by ſituati<g ref="char:EOLhyphen"/>on, and which had a profeſſed Papiſt for the Governour, which how dangerous it was to ſome parts of this Aſſo<g ref="char:EOLhyphen"/>ciation, and to the neighbouring parts of <hi>Lincolnſhire, Northamptonſhire,</hi> and <hi>Huntingdonſhire,</hi> is well known to thoſe that were ſubject to their daily plundrings and pil<g ref="char:EOLhyphen"/>lagings.</item>
+               <item>3 The defeat given to the enemies at <hi>Grantham,</hi> where eleven of the Parliament Troops facing one or two and twenty of the enemies, five of the Aſſociated Troops charging the right wing of the enemies body, utterly routed them, and had the execution and chaſe of them almoſt two miles, and got five or ſix of their colours.</item>
+               <item>4 The taking <hi>Burlygh</hi> houſe, where was alſo taken the Lord <hi>Camdens</hi> regiment of horſe, with their colours, three or foure companies of Foot and Dragooneers, with all their ammunition, with about 400. priſoners.</item>
+               <item>5 The defeat given to the enemies horſe at <hi>Gainsborough,</hi> to the breaking of near thirty troops of the enemie; where was ſlain the Lieutenant Generall <hi>Charles Cavendiſh:</hi> Colonel <hi>Heron,</hi> the High Sheriffe of <hi>Lincolnſh.</hi> forced into <hi>Trent,</hi> with many other Officers and Souldiers, and there drown<g ref="char:EOLhyphen"/>ed, whereby <hi>Gainsborough</hi> was at that time relieved with ammunition, which then it exceedingly wanted; and this battel fought, and victory gotten, as without any conſide<g ref="char:EOLhyphen"/>rable loſſe to us, ſo within a mile of the Marqueſſe of <hi>Newcaſtles</hi> Army.</item>
+               <item>6 The ſaving near twenty Troops of horſe belonging to the Lord <hi>Fairfax,</hi> and under that renowned Gentleman Sir <hi>Thomas Fairfax,</hi> his ſonne, with which horſe he hath ſince performed ſuch notable good ſervice in <hi>Cheſhire,</hi> and other parts; which ſaid horſe were almoſt ſtarved by
+<pb facs="tcp:39161:3" rendition="simple:additions"/>
+                  <!-- PDF PAGE 80 -->the ſtraight ſiege of <hi>Hull,</hi> and could not in probability have been thence delivered but by the horſe of this Aſſo<g ref="char:EOLhyphen"/>ciation, which was done by fourteen Troops of horſe and three of Dragoons belonging to this Aſſociation, there being nothing in aſſiſtance of them, but ſix Troops be<g ref="char:EOLhyphen"/>longing to the Lord <hi>Willoughby,</hi> and near fourty Troops of the enemy under the command of Sir <hi>John Hinderſon,</hi> who had opportunity to have fought with our horſe be<g ref="char:EOLhyphen"/>fore we could come to joyn with Sir <hi>Thomas Fairfax</hi> his horſe, if he had pleaſed, but did not take it.</item>
+               <item>7 The taking of <hi>Lin,</hi> a ſtrong town and of great importance, by raw and undiſciplined new raiſed ſouldiers; which was a place as likely to have undone this whole Aſſociation as any, which rebelled at ſuch a time as the Marqueſſe of <hi>Newcaſtle</hi> was at the ſtrongeſt, and ſo abſolute in <hi>Lin<g ref="char:EOLhyphen"/>colnſhire,</hi> that if he would have engaged his Army to have come to the reſcue thereof, the forces of this Aſſociation then raiſed, had not been conſiderable to have made reſi<g ref="char:EOLhyphen"/>ſtance.</item>
+               <item>8 The fight at <hi>Winsby,</hi> where ours being about fifty colours of horſe and dragoons, did encounter near ninety colours of the enemie: both parties being by eſtimate between eight and nine thouſand horſe and dragoons, the enemie being in all probability about five thouſand of that num<g ref="char:EOLhyphen"/>ber, where we gave him ſuch a defeat, that we took and killed about 1100. of them, and took near thirty of their colours.</item>
+               <item>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> The taking of <hi>Lincoln,</hi> where the force of the defendants were in computation many more then of the aſſailants, which the enemie ſurrendred up to us upon hard terms to themſelves, where we got about 3000. Arms, the ene<g ref="char:EOLhyphen"/>mies colours, with good proportion of ammunition, and five or ſix pieces of Ordnance.</item>
+               <item>
+                  <pb facs="tcp:39161:4"/>
+                  <!-- PDF PAGE 81 -->
+10 The taking of <hi>Gainsborough</hi> by ſtorm, the greateſt part of the foot being our men, who repulſed the enemie, got over their works without any loſſe, and poſſeſſed the town, whereby <hi>Lincolnſhire</hi> (formerly almoſt totally under the enemies power) became wholly cleared of them.</item>
+               <item>11 And laſtly, the taking of <hi>Hilſden</hi> houſe, which a week before the garriſon of <hi>Ailsbury</hi> attempted but could not take, af<g ref="char:EOLhyphen"/>ter which time and before we endeavoured it, the enemie ſent in two or three loads of ammunition; where were taken above 200. priſoners, about twelve barrels of pow<g ref="char:EOLhyphen"/>der and proportionable match, all their arms, and about fifty horſe, which ſervice was much to the eaſe and com<g ref="char:EOLhyphen"/>fort of the poore inhabitants of the almoſt waſted Coun<g ref="char:EOLhyphen"/>ty of <hi>Buckingham,</hi> which was oppreſſed by them, and by the countenance of which houſe great ſummes of money and contributions were raiſed both for themſelves and <hi>Oxford;</hi> and a regiment of foot, and the completing Co<g ref="char:EOLhyphen"/>lonel <hi>Smiths</hi> regiment of horſe was ſpeedily intended. Where alſo were taken men of quality, Sir <hi>A. Denton,</hi> and Colonel <hi>Smith,</hi> beſides two field Officers and divers Captains.</item>
+            </list>
+            <p>
+               <hi>Theſe things are thus particularly recited (not for vain oſten<g ref="char:EOLhyphen"/>tation, nor that any honour ſhould be given to any perſon, no nor to your forces, but) that by commemorating particulars, your hearts may be enlarged and quickned in ſincerity to give God the glory due alone to him. Let your confidence be ever more placed in God, and when we again go out, we deſire your prayers to the Lord, profeſsing our truſt to be in his Name, and our rejoycing in hope we ſhall have his preſence to go along with us: in this we reſt: And therefore let the Name of God alone be glorified by all, through Chriſt for evermore.</hi>
+            </p>
+         </div>
+         <div type="postscript">
+            <pb facs="tcp:39161:4"/>
+            <!-- PDF PAGE 81 -->
+            <head>A Poſtſcript.</head>
+            <p>
+               <seg rend="decorInit">T</seg>His Commemoration of mercies confer<g ref="char:EOLhyphen"/>red upon theſe Aſſociated Counties, be<g ref="char:EOLhyphen"/>ing printed and ready to be publiſhed, ac<g ref="char:EOLhyphen"/>cording to the purpoſe expreſſed in the Preface; the defeat given to the Forces before <hi>Newark</hi> did diſfwade the diſperſing of the copyes upon theſe conſiderations: Firſt, becauſe the hearts of people being oppreſſed by this ſad providence, were judged unfit to undertake the joyfull exerciſe of Thankſgiving. Secondly, leſt Malignants ſhould have any ſeeming occaſion adminiſtred to blaſpheme the wayes of Chriſt, upon our performance of a duty ſo unſeaſonable and unſuitable to our preſent condition; giving it out alſo that this courſe of ours is but a colour<g ref="char:EOLhyphen"/>able cover of our great loſſe lately ſuſtained by their prevailing power.</p>
+            <p>But now through ſome happy change of providence, the Lord of Hoſts having cheared up again the hearts of them who love Sion, by the good ſucceſſe graciouſly given to the forces commanded by Sir <hi>William Waller,</hi> and Sir <hi>William Belfore,</hi> the high imployment of pray<g ref="char:EOLhyphen"/>ſing his Bleſſed Majeſtie will be ſeaſonable. And there<g ref="char:EOLhyphen"/>fore, though we deſire to be ſenſibly humbled under the remembrance of our ſufferings before <hi>Newark,</hi> (wiſhing that ſuch eſpecially may Chriſtianly reflect upon themſelves, who have moſt to anſwer for in the miſcarrying of that buſineſſe) yet we account not Gods former favours to be leſſened by our late loſſe, nor our
+<pb facs="tcp:39161:5"/>
+               <!-- PDF PAGE 82 -->ſelves diſcharged from the debt of Thankfulneſſe, be<g ref="char:EOLhyphen"/>cauſe now under ſome cloud of affliction.</p>
+            <p>And if our enemies (whoſe cuſtome it is to judge others according to their own actions) imagine that we have any low unworthy deſigne in this our practiſe, we would have them know, that our hearts abhorre the abuſing, the abaſing of any holy ordinance to ſerve ſin<g ref="char:EOLhyphen"/>full ends; and withall we profeſſe to the world, that we do hopefully deſigne the future ſpeeding of our under<g ref="char:EOLhyphen"/>takings, for the good both of Church and Common<g ref="char:EOLhyphen"/>wealth, by giving unto the God of our ſalvations, the God of our victories, the honour due unto his Bleſſed Name.</p>
+            <closer>
+               <signed>Mancheſter.</signed>
+            </closer>
+         </div>
+         <div type="document">
+            <pb facs="tcp:39161:5"/>
+            <!-- PDF PAGE 82 -->
+            <head>An Order for the more ſolemn keeping <hi>of the Publick Faſt.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Lords and Commons in Parliament, have made an Or<g ref="char:EOLhyphen"/>dinance for the more ſtrict and ſo<g ref="char:EOLhyphen"/>lemn keeping of the dayes of pub<g ref="char:EOLhyphen"/>lick Faſt, which are not by all per<g ref="char:EOLhyphen"/>ſons duely obſerved, even in theſe times of publick calamitie, to the great diſhonour of God, and the contempt of the Authority of both Houſes of Parliament.</p>
+            <p>Now that more particular notice may be given unto all ſuch as ſhall offend herein, before any ex<g ref="char:EOLhyphen"/>emplary puniſhment be inflicted upon them, it is Ordered by the Commons now aſſembled in Par<g ref="char:EOLhyphen"/>liament, that all Conſtables, or their deputies, ſhall the day before every publick Faſt, repair unto every houſe within their ſeverall and reſpective liberties, and charge all perſons that they ſtrictly obſerve the Faſt, according to the directions in the ſaid Ordi<g ref="char:EOLhyphen"/>nance.</p>
+            <p>And they ſhall upon the ſaid dayes of publick Faſt, walk through their ſaid liberties, diligently ſearching for, and taking notice of all perſons, who either by following the works of their callings, or
+<pb facs="tcp:39161:6"/>
+               <!-- PDF PAGE 83 -->ſitting in Taverns, Victualling and Alehouſes, or any other wayes ſhall not duely obſerve the ſame; and they are hereby required to return the names of all ſuch perſons as they ſhall find ſo offending, as alſo ſuch informations as they ſhall receive againſt any other perſons within their liberties guilty of the leaſt offence, unto the Committee for Exami<g ref="char:EOLhyphen"/>nations, that ſo they may be proceeded againſt for the contempt of the ſaid Ordinance. And all Conſtables are to obſerve theſe directions from time to time, ſo long as the publick Faſt ſhall be kept, without expecting any further Order.</p>
+            <closer>
+               <signed>Hen. Elſinge, Cler. Parl. D. Com.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="document">
+            <pb facs="tcp:39161:6"/>
+            <!-- PDF PAGE 83 -->
+            <head>Conſtables.</head>
+            <p>I Do hereby charge and command all and every one of you, to uſe your beſt endeavour that the monethly faſt may be ſolemnely obſerved, according to the Or<g ref="char:EOLhyphen"/>der of Parliament hereto adjoyned, and alſo that the prophanation of the Lords day may be prevented ac<g ref="char:EOLhyphen"/>cording to another Order of Parliament for that end heretofore publiſhed. And if any perſon, or perſons, ſhall wilfully tranſgreſſe either of the aforeſaid orders by Gaming, tipling in alehouſes, or following their ſer<g ref="char:EOLhyphen"/>vile employments, either on the Sabbath or Faſt day, you ſhall forthwith return their names unto me or the Committee, now ſitting in your County, that they may receive ſuch puniſhment as their ſeverall offences ſhall deſerve.</p>
+            <p>And you ſhall enquire out all unlicenſed alehouſe-keepers within your pariſh, and give ſpeedy notice of them unto the next Juſtices of peace, that they may be ſuppreſſed.</p>
+            <p>You ſhall alſo, return to the ſaid Juſtices the names of all them who being licenſed, do yet ſuffer any diſor<g ref="char:EOLhyphen"/>ders in their houſes, that they may be puniſhed. Hereof fail you not, as you will anſwer the contrary at your ut<g ref="char:EOLhyphen"/>moſt peril.</p>
+            <closer>
+               <dateline>Given under my hand at <hi>Cambridge</hi> 
+                  <date>this firſt of <hi>April,</hi> 1644.</date>
+               </dateline>
+               <signed>Mancheſter.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
